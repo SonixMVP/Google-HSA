@@ -1,0 +1,10 @@
+1. SN9C2720M_Firmware.bin signature is calculate by software algorithm.
+2. This signature is locate at B600h~B617 in binary file.
+3. Camera device will check this signature to verify firmware is valid.
+4. If firmware is valid, image device name is "Integrated_Webcam_HD".
+5. Change this signature use other way, camera device will not work normally and show "Sonix Technology Co.,Ltd".
+6. When we provide new version firmware, the signature will change together.
+
+Note: 
+1. Sonix USB Vendor ID: 0x0C45
+2. Linux list input device command: cat /proc/bus/input/devices
