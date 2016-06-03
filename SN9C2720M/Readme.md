@@ -8,8 +8,8 @@ File description
 ###Security.txt
 1. Security description.
 
-###SN9C2720M_IMX188_MIPI_All.bin
-1. Firmware binary file.
+###SN9C2720M_Firmware.aes
+1. Firmware binary encryption file.
 
 ###Linux_BurnerAp_1.0.3.tgz
 1. Firmware update and binary tool for Linux.
