@@ -1,4 +1,4 @@
-Sonix SN9C2720M Exhibit A
+Sonix SN9C2735 Exhibit A
 ===================================
 File description
 -----------------------------------  
