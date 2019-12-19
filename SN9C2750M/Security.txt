@@ -1,0 +1,6 @@
+1. BurnAP_std_V1.0.6.1.tar.gz is BurnAP encryption file.
+2. SN9C2750M_Firmware.aes is firmware encryption file.
+3. Encryption mothod is AES 256 bit. 
+4. Linux OpenSSL command can be deryption.
+
+
