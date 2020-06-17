@@ -1,0 +1,6 @@
+1. linux_burnAP_v1.0.6.3.tar.gz is BurnAP encryption file.
+2. SN9C2808S_Firmware.aes is firmware encryption file.
+3. Encryption mothod is AES 256 bit. 
+4. Linux OpenSSL command can be deryption.
+
+
