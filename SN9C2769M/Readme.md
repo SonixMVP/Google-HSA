@@ -17,7 +17,7 @@ File description
 
 ###BurnAP_std_v1.0.6.10.tar.gz
 1. Firmware update tool source code, use OpenSSL command to decryption.
-2. command: openssl enc -aes-256-cbc -d -k sonix -in BurnAP_std_v1.0.6.10.tar.gz | tar xzf ¡V
+2. command: openssl enc -aes-256-cbc -d -k sonix -in BurnAP_std_v1.0.6.10.tar.gz | tar xzf -
 
 ###COPYING
 1. License description
