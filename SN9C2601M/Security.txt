@@ -1,0 +1,5 @@
+1. SN9C2601M_Firmware.aes is firmware encryption file.
+2. Encryption mothod is AES 256 bit. 
+3. Linux OpenSSL command can be deryption.
+
+
