@@ -1,4 +1,4 @@
-Sonix SN9C2820S Exhibit A
+Sonix SN9C2808S Exhibit A
 ===================================
 File description
 -----------------------------------  
@@ -8,9 +8,9 @@ File description
 ###Security.txt
 1. Security description.
 
-###SN9C2750M_Firmware.aes
+###SN9C2808S_Firmware.aes
 1. Firmware binary encryption file, use OpenSSL command to decryption.
-2. command: openssl enc -aes-256-cbc -in ./SN9C2820S_Firmware.aes  -out SN9C2820S_Firmware.bin -d -k sonix
+2. command: openssl enc -d -aes256 -k sonix -in SN9C2808S_Firmware.aes -out SN9C2808S_Firmware.bin 
 
 ###Device_Config.ini
 1. Reference file: Firmware Update Application Guide_v1.0.6.3.pdf
