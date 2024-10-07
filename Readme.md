@@ -16,3 +16,4 @@ Folder description
 11. SN9C2901AM -> Sonix UVC camera
 12. SN9C2601M  -> Sonix UVC camera
 13. SN9C2602M  -> Sonix UVC camera
+14. SN9C2904S  -> Sonix UVC camera

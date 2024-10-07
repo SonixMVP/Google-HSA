@@ -1,0 +1,6 @@
+1. fw_update.tar.gz is BurnAP encryption file.
+2. SN9C2904S_Firmware.aes is firmware encryption file.
+3. Encryption mothod is AES 256 bit. 
+4. Linux OpenSSL command can be deryption.
+
+
